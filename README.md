@@ -9,6 +9,7 @@ This is Story app, an experience management application that allow user to write
 **Client:**  Bootstrap, Handlebar
 
 **Server:** Node, Express, MongoDB
+**API:** Google Auth
 
 
 ## Application URL
