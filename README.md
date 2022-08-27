@@ -13,6 +13,16 @@ This is Story9ja app, an experience management application that allow user to wr
 **API:** Google Auth
 
 
+## Installation
+
+Install my-project with npm
+
+```bash
+git clone https://github.com/peterchijioke/storyApp.git
+  cd storyApp
+  node app.js
+```
+
 ## Application URL
 - https://lit-dusk-10614.herokuapp.com
 
