@@ -1,3 +1,12 @@
-# storyApp
- This app is a fullstack app that allow users to write about them selves and allow other to read what they have writes about them selves. It was developed usin
-With the following technologies: NodeJs, Express, Bootstrap and MongoDB.
+
+# A Experience management application
+
+This app is story app, an experience management application that allow user to write about an encounter or experience; On posting it to the board, other users can read through it. 
+
+
+## Tech Stack
+
+**Client:**  Bootstrap, Handlebar
+
+**Server:** Node, Express, MongoDB
+
