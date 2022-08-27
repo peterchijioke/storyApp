@@ -18,6 +18,14 @@ This is Story app, an experience management application that allow user to write
 
 ## Screenshots
 
+- This is the hero page: The user first sees this interface on visit to the web app
+
 ![](image1.png)
+
+- This is where the user sees a list of stories that was made public, and they can choose anyone to read through
+- 
 ![](image2.png)
+
+- This page shows a listing of all the stories posted by a particular user.
+- 
 ![](image33.png)
