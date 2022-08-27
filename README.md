@@ -18,4 +18,6 @@ This is Story app, an experience management application that allow user to write
 
 ## Screenshots
 
-![](image.png)
+![](image1.png)
+![](image2.png)
+![](image33.png)
