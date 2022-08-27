@@ -6,7 +6,7 @@ This is Story app, an experience management application that allow user to write
 
 ## Tech Stack
 
-**Client:**  Bootstrap, Handlebar
+**Client:**  Bootstrap, Handlebars, Css, Javascript
 
 **Server:** Node, Express, MongoDB
 **API:** Google Auth
@@ -14,3 +14,8 @@ This is Story app, an experience management application that allow user to write
 
 ## Application URL
 - https://lit-dusk-10614.herokuapp.com
+
+
+## Screenshots
+
+![](image.png)
